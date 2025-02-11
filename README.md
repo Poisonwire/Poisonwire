@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drew
-- 👀 I’m interested in ...Data Science!
-- 🌱 I’m currently learning ...Amazon Web Services and Python!
-- 💞️ I’m looking to collaborate on ...Server Developement and Netwworking
+- 👀 I’m interested in ...Machine Learning and Cloud Computing!
+- 🌱 I’m currently learning ...SQL and Python!
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
